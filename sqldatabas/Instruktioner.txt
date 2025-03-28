@@ -1,0 +1,17 @@
+Login in till admin :
+
+username: Admin
+password: password
+
+-------------------------------
+.env namnen: 
+
+
+DB_HOST=""
+DB_USER="root"
+DB_PASSWORD=""
+DB_NAME="ecommerce"
+DB_PORT= 3306
+
+STRIPE_WEBHOOK_SECRET=""
+STRIPE_SECRET_KEY=""
